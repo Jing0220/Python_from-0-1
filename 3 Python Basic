@@ -259,3 +259,4 @@ You can use -=, +=, /=, *=
 - **len (length) - 辨別長度**
     
     ![Untitled](3%20Python%20Basic%2024863f101f854c6b9ed4cb5ced96c100/Untitled%2027.png)
+    print(1+2)
